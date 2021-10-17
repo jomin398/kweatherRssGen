@@ -1,0 +1,22 @@
+/*
+    background-color: #009AE1; //rss btn
+    color: #fff;*/
+div.input-do > button {
+    border-radius: 4px;
+    height: 30px;
+    line-height: 30px;
+    padding: 0 10px;
+    font-size: 13px;
+}
+
+button.gen {
+    background: #ffc600;
+    text-align: center;
+    color: #000000;
+}
+
+button.rss {
+    text-align: center;
+    background-color: #009AE1;
+    color: #fff;
+}
